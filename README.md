@@ -1,2 +1,2 @@
-# repositorio para practicar git pull modificando otra vez (Giussepe)
+# repositorio para practicar git pull modificando una vez más (Giussepe VC)
 Repositorio para practicar el comando git pull
